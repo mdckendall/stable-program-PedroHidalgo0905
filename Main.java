@@ -88,7 +88,7 @@ class Main {
     for(int i =0; i < s.horseArrayList.size();i++){
       
     
-    System.out.println("Horse # "+(i+1)+" Name: " 
+    System.out.println("Horse #"+(i+1)+" Name: " 
                          + s.horseArrayList.get(i).getName() + " Weight: "
           +s.horseArrayList.get(i).getWeight()+ " Tame: "
           +s.horseArrayList.get(i).getisTame());
